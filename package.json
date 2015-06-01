@@ -1,0 +1,19 @@
+{
+  "name": "sst-express",
+  "version": "0.0.0",
+  "description": "demo express web app for SST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aeshan Wijetunge",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "express-session": "^1.11.2",
+    "body-parser": "^1.12.4",
+    "twitter": "^1.2.5",
+    "dust": "^0.3.0",
+    "adaro": "^1.0.0-9"
+  }
+}
